@@ -1,0 +1,5 @@
+If I were to start over I would leave all backend and UI development until the end and focus all of my efforts at the start on the models and blends.  Once all of the deformations were working properly together I would begin work on integrating the out-of-maya controls.
+
+Personally, I need to become more familiar with git(hub) to keep my workflow smooth.  I found that I was getting stuck when trying to pull and commit which disrupted my working on the actual project.  I was excited when I was able to figure out alternate ways of doing certain tasks (it turns out that nearly all of it could be done via blend shapes).  
+
+Team projects are tough, especially in situations where individuals are not already familiar with one anothers work styles and strengths/weaknesses.  I understand why members of professional software development teams often have their "job" or "roll" that they perform.
